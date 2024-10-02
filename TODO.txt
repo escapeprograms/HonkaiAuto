@@ -1,0 +1,19 @@
+* check if debuffs work
+* make a "do nothing" option available DONE
+* expand options for each skill/ability for different targets DONE
+* simulation chooses moves DONE
+* game state copying DONE
+* graph search etc DONE
+* FIX PELA done?
+* Add second wave!
+
+Notes
+* accessing an object is O(1), very good
+
+Not implementing:
+* effect hit rate/effect res
+
+
+Known issues
+* Sparkle ult in the real game does not count down if cast during her turn
+* Sparkle's turn is being calculated correctly, but SKIPPED?????
